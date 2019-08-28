@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_screen.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/drawable-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Desktop/cordova/SenPortable/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher.xml"
+    }
+]

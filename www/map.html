@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+        <title>SenPortable</title>
+    </head>
+    <body>
+        <div data-role="page">
+            <div data-role="header"  data-theme="b">
+                <h1 id="app-title">SenPortable</h1>
+            </div>
+            <div role="main" class="ui-content">
+                <div id="map"></div>
+                <button data-icon="back" type="button" id="retour" >Retour</button>   
+            </div>
+            <footer data-role="footer" data-position="fixed">
+                <h4>@MitApp 2019</h4>
+            </footer>
+        </div>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDiJBnguDltErHZDxN7TuK8INXpCKokIM0"></script>
+        <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBm3aICzl9v8wj8N8Ak9kQ8yqqpmCp-zaY"></script>-->
+        <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBk8P21Jrm0RTkE4B-0ErLnTr8wy4352cI" type="text/javascript"></script>-->
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/platformOverrides.js"></script>
+        <script src="js/jquery-2.2.3.min.js"></script>
+        <script src="js/jquery.mobile-1.4.5.min.js"></script>
+        <script type="text/javascript" src="js/map.js"></script>
+    </body>
+</html>
